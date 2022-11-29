@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67273562780",
+    "project_id": "pmgt-d5d93",
+    "storage_bucket": "pmgt-d5d93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67273562780:android:cd5f452cd6ad63699ceb59",
+        "android_client_info": {
+          "package_name": "com.example.pmgt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67273562780-vnedjk0shi7v4o8mqb5t21hk2mh982d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqhRXqOON4kihJJB6OMjU7h_W7XGcYnq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67273562780-vnedjk0shi7v4o8mqb5t21hk2mh982d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
