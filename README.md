@@ -1,16 +1,25 @@
-# pmgt
+Preeti Miss Group Tuitions is an innovative Flutter project designed to empower educators in streamlining their educational processes. This comprehensive app enables tutors to efficiently manage their students, organize them into various streams, and allocate subjects effortlessly.
 
-A new Flutter project.
+Key Features:
 
-## Getting Started
+Student Management: Tutors can easily add and organize students into different streams, ensuring a structured learning environment.
 
-This project is a starting point for a Flutter application.
+Attendance Tracking: Professors have the capability to take attendance for their students, simplifying the monitoring of class participation.
 
-A few resources to get you started if this is your first Flutter project:
+Academic Assessment: The app allows educators to record and manage student marks, facilitating the evaluation and grading process.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+PDF Reporting: Generate PDF reports directly from the app, providing a convenient way to share essential information with students and parents.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Technologies Used:
+
+Flutter: The project is built using the Flutter framework, ensuring a smooth and responsive cross-platform experience.
+
+Dart: Dart programming language is employed for efficient app development.
+
+Firebase: Firebase is utilized for real-time data management, storage, and authentication, ensuring a secure and reliable user experience.
+
+
+
+
+
+
